@@ -18,6 +18,7 @@ let textv =document.getElementById('text');
 let display=document.getElementById('display');
 function text() {
    let textvalue=textv.value;
- display.innerHTML = `hello ${textvalue}`
+ display.innerHTML = `hello,${textvalue}`
    
+
 }
