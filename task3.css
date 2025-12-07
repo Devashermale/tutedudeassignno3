@@ -1,0 +1,29 @@
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+#box1,#box2,#box3,#box4{
+    border: 1px solid black;
+    padding: 50px;
+    flex-grow: -1;
+    
+}
+.dev1{
+margin-top: 20%;
+display:block;
+width: 20%; 
+
+
+margin:300px 450px 0px ;
+
+}
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
